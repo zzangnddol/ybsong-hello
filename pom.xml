@@ -10,6 +10,12 @@
 	<name>ybsong-hello</name>
 	<url>http://maven.apache.org</url>
 
+	<scm>
+		<connection>scm:git:git@github.com:zzangnddol/ybsong-hello.git</connection>
+		<url>scm:git:git@github.com:zzangnddol/ybsong-hello.git</url>
+		<developerConnection>scm:git:git@github.com:zzangnddol/ybsong-hello.git</developerConnection>
+	</scm>
+
 	<distributionManagement>
 		<repository>
 			<id>repo</id>
